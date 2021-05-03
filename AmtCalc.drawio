@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-03T05:28:46.812Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="O05ERpTe_7Ixrcc0601f" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-03T06:02:05.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="C0YPRUbzuspPWPwPy1mL" version="14.6.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,21 +13,20 @@
         <mxCell id="CEHg5lTLm4kWdgyplVmB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CEHg5lTLm4kWdgyplVmB-0" target="CEHg5lTLm4kWdgyplVmB-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CEHg5lTLm4kWdgyplVmB-0" value="인수 날짜&lt;br&gt;반납 날짜&lt;br&gt;인수 시간&lt;br&gt;반납 시간&lt;br&gt;상품코드&lt;br&gt;운전자 나이&lt;br&gt;거래처&lt;br&gt;seasonFlag&lt;br&gt;baseAmt&lt;br&gt;요금계산법&lt;br&gt;기준산식 요율" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="150" width="120" height="160" as="geometry" />
+        <mxCell id="CEHg5lTLm4kWdgyplVmB-0" value="인수 날짜&lt;br&gt;반납 날짜&lt;br&gt;인수 시간&lt;br&gt;반납 시간&lt;br&gt;상품코드&lt;br&gt;운전자 나이&lt;br&gt;거래처&lt;br&gt;seasonFlag&lt;br&gt;baseAmt&lt;br&gt;요금계산법&lt;br&gt;기준산식 요율&lt;br&gt;totalAmt" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="150" width="120" height="180" as="geometry" />
         </mxCell>
         <mxCell id="CEHg5lTLm4kWdgyplVmB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CEHg5lTLm4kWdgyplVmB-3" target="CEHg5lTLm4kWdgyplVmB-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="420" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="360" />
-              <mxPoint x="200" y="420" />
-              <mxPoint x="205" y="420" />
+              <mxPoint x="205" y="375" />
+              <mxPoint x="205" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CEHg5lTLm4kWdgyplVmB-3" value="인수날짜 == 반납날짜" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="315" y="320" width="150" height="80" as="geometry" />
+          <mxGeometry x="315" y="350" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CEHg5lTLm4kWdgyplVmB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CEHg5lTLm4kWdgyplVmB-7" target="CEHg5lTLm4kWdgyplVmB-8">
           <mxGeometry relative="1" as="geometry" />
@@ -45,7 +44,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CEHg5lTLm4kWdgyplVmB-12" value="read&lt;br&gt;인수날짜" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="165" y="430" width="80" height="30" as="geometry" />
+          <mxGeometry x="165" y="430" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CEHg5lTLm4kWdgyplVmB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CEHg5lTLm4kWdgyplVmB-13" target="CEHg5lTLm4kWdgyplVmB-7">
           <mxGeometry relative="1" as="geometry" />
@@ -74,9 +73,6 @@
         <mxCell id="CEHg5lTLm4kWdgyplVmB-22" value="요금계산법 = 요금계산법 조회" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="680" width="170" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="CEHg5lTLm4kWdgyplVmB-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CEHg5lTLm4kWdgyplVmB-22" target="CEHg5lTLm4kWdgyplVmB-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="CEHg5lTLm4kWdgyplVmB-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CEHg5lTLm4kWdgyplVmB-27" target="CEHg5lTLm4kWdgyplVmB-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -86,11 +82,20 @@
         <mxCell id="CEHg5lTLm4kWdgyplVmB-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CEHg5lTLm4kWdgyplVmB-29" target="CEHg5lTLm4kWdgyplVmB-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CEHg5lTLm4kWdgyplVmB-29" value="요금 계산&lt;br&gt;기준산식 요율 * baseAmt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="CEHg5lTLm4kWdgyplVmB-29" value="요금 계산&lt;br&gt;totalAmt =&lt;br&gt;기준산식 요율 * baseAmt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="145" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CEHg5lTLm4kWdgyplVmB-31" value="요금계산 끝" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="1230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CEHg5lTLm4kWdgyplVmB-35" value="read&lt;br&gt;상품코드" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130.5" y="920" width="149" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CEHg5lTLm4kWdgyplVmB-36" value="상품코드를 이용한 예약률 조회" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="970" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CEHg5lTLm4kWdgyplVmB-37" value="상품코드와 예약률을 이용한&amp;nbsp;&lt;br&gt;가산률 조회" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="125" y="1020" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
