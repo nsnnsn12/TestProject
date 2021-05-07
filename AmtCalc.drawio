@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T02:02:30.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="WF7szBzd3c4QMkA3OefC" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-07T02:28:09.315Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="niKKbcHM4yvA_vFORNjT" version="14.6.10" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="CEHg5lTLm4kWdgyplVmB-7" value="read&lt;br&gt;거래처&lt;br&gt;상품코드&lt;br&gt;seasonFlag" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="144.61" y="575" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n21Y4nr5ksKsENMVjm-o-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CEHg5lTLm4kWdgyplVmB-8" target="n21Y4nr5ksKsENMVjm-o-10">
+        <mxCell id="n21Y4nr5ksKsENMVjm-o-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CEHg5lTLm4kWdgyplVmB-8" target="n21Y4nr5ksKsENMVjm-o-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CEHg5lTLm4kWdgyplVmB-8" value="baseAmt =상품별 요금 검색(보험/대여료 구분하여 검색)" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -85,7 +85,7 @@
         <mxCell id="CEHg5lTLm4kWdgyplVmB-107" value="read&lt;br&gt;거래처&lt;br&gt;상품코드&lt;br&gt;seasonFlag" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="804.11" y="835" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n21Y4nr5ksKsENMVjm-o-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CEHg5lTLm4kWdgyplVmB-109" target="n21Y4nr5ksKsENMVjm-o-1">
+        <mxCell id="n21Y4nr5ksKsENMVjm-o-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CEHg5lTLm4kWdgyplVmB-109" target="n21Y4nr5ksKsENMVjm-o-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CEHg5lTLm4kWdgyplVmB-109" value="baseAmt =상품별 요금 검색&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -215,7 +215,7 @@
         <mxCell id="CEHg5lTLm4kWdgyplVmB-196" value="read&lt;br&gt;예약률, 상품코드" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="289.61" y="1620" width="149" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n21Y4nr5ksKsENMVjm-o-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CEHg5lTLm4kWdgyplVmB-198" target="n21Y4nr5ksKsENMVjm-o-18">
+        <mxCell id="n21Y4nr5ksKsENMVjm-o-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CEHg5lTLm4kWdgyplVmB-198" target="n21Y4nr5ksKsENMVjm-o-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CEHg5lTLm4kWdgyplVmB-198" value="요금 계산&lt;br&gt;totalAmt *= 가산률" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -239,7 +239,7 @@
         <mxCell id="CEHg5lTLm4kWdgyplVmB-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CEHg5lTLm4kWdgyplVmB-206" target="CEHg5lTLm4kWdgyplVmB-198" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n21Y4nr5ksKsENMVjm-o-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CEHg5lTLm4kWdgyplVmB-206" target="n21Y4nr5ksKsENMVjm-o-18">
+        <mxCell id="n21Y4nr5ksKsENMVjm-o-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CEHg5lTLm4kWdgyplVmB-206" target="n21Y4nr5ksKsENMVjm-o-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CEHg5lTLm4kWdgyplVmB-206" value="if(가산률 == null)" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -361,52 +361,52 @@
         <mxCell id="RZ1_HY4zXpPiNoOnuPK8-16" value="read&lt;br&gt;계산된 시간,&lt;br&gt;요금계산법" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="789.61" y="1129" width="149" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="n21Y4nr5ksKsENMVjm-o-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n21Y4nr5ksKsENMVjm-o-1" target="RZ1_HY4zXpPiNoOnuPK8-13">
+        <mxCell id="n21Y4nr5ksKsENMVjm-o-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n21Y4nr5ksKsENMVjm-o-1" target="RZ1_HY4zXpPiNoOnuPK8-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n21Y4nr5ksKsENMVjm-o-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n21Y4nr5ksKsENMVjm-o-1" target="n21Y4nr5ksKsENMVjm-o-5">
+        <mxCell id="n21Y4nr5ksKsENMVjm-o-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n21Y4nr5ksKsENMVjm-o-1" target="n21Y4nr5ksKsENMVjm-o-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n21Y4nr5ksKsENMVjm-o-1" value="보험료/대여료 구분 == 대여" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="n21Y4nr5ksKsENMVjm-o-1" value="보험료/대여료 구분 == 대여" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="739.11" y="960" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n21Y4nr5ksKsENMVjm-o-4" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="n21Y4nr5ksKsENMVjm-o-4" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="831.62" y="1000" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="n21Y4nr5ksKsENMVjm-o-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n21Y4nr5ksKsENMVjm-o-5" target="RZ1_HY4zXpPiNoOnuPK8-13">
+        <mxCell id="n21Y4nr5ksKsENMVjm-o-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n21Y4nr5ksKsENMVjm-o-5" target="RZ1_HY4zXpPiNoOnuPK8-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n21Y4nr5ksKsENMVjm-o-5" value="보험상품 조회&lt;br&gt;조회된 가산률 적용" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="n21Y4nr5ksKsENMVjm-o-5" value="보험상품 조회&lt;br&gt;조회된 가산률 적용" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1030" y="995" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="n21Y4nr5ksKsENMVjm-o-8" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="n21Y4nr5ksKsENMVjm-o-8" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1030" y="950" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="n21Y4nr5ksKsENMVjm-o-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n21Y4nr5ksKsENMVjm-o-10" target="CEHg5lTLm4kWdgyplVmB-20">
+        <mxCell id="n21Y4nr5ksKsENMVjm-o-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n21Y4nr5ksKsENMVjm-o-10" target="CEHg5lTLm4kWdgyplVmB-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n21Y4nr5ksKsENMVjm-o-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n21Y4nr5ksKsENMVjm-o-10" target="n21Y4nr5ksKsENMVjm-o-14">
+        <mxCell id="n21Y4nr5ksKsENMVjm-o-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n21Y4nr5ksKsENMVjm-o-10" target="n21Y4nr5ksKsENMVjm-o-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n21Y4nr5ksKsENMVjm-o-10" value="보험상품연번&amp;nbsp;== NULL" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="n21Y4nr5ksKsENMVjm-o-10" value="보험상품연번&amp;nbsp;== NULL" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="79.11000000000001" y="780" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n21Y4nr5ksKsENMVjm-o-13" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="n21Y4nr5ksKsENMVjm-o-13" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="150" y="830" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="n21Y4nr5ksKsENMVjm-o-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n21Y4nr5ksKsENMVjm-o-14" target="CEHg5lTLm4kWdgyplVmB-20">
+        <mxCell id="n21Y4nr5ksKsENMVjm-o-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n21Y4nr5ksKsENMVjm-o-14" target="CEHg5lTLm4kWdgyplVmB-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n21Y4nr5ksKsENMVjm-o-14" value="보험상품 조회&lt;br&gt;조회된 가산률 적용" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="n21Y4nr5ksKsENMVjm-o-14" value="보험상품 조회&lt;br&gt;조회된 가산률 적용" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="810" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="n21Y4nr5ksKsENMVjm-o-17" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="n21Y4nr5ksKsENMVjm-o-17" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="349.11" y="770" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="n21Y4nr5ksKsENMVjm-o-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n21Y4nr5ksKsENMVjm-o-18" target="CEHg5lTLm4kWdgyplVmB-208">
+        <mxCell id="n21Y4nr5ksKsENMVjm-o-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n21Y4nr5ksKsENMVjm-o-18" target="CEHg5lTLm4kWdgyplVmB-208" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n21Y4nr5ksKsENMVjm-o-18" value="운전자 연령 가산률 적용 전 요금 저장" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="n21Y4nr5ksKsENMVjm-o-18" value="운전자 연령 가산률 적용 전 요금 저장" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="254.11" y="2090" width="220" height="20" as="geometry" />
         </mxCell>
       </root>
