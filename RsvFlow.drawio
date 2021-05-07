@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T05:57:08.198Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="3VIPH7d8HJN0pJYJHTSy" version="14.6.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-05-07T06:11:40.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="ZsGb3q131JveSKHM02uh" version="14.6.10" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -172,6 +172,27 @@
       <root>
         <mxCell id="PJDTdn_qHvP4Cda7d0ZA-0" />
         <mxCell id="PJDTdn_qHvP4Cda7d0ZA-1" parent="PJDTdn_qHvP4Cda7d0ZA-0" />
+        <mxCell id="WYWmt2R7koCnTp0mM5SY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="PJDTdn_qHvP4Cda7d0ZA-1" source="B6roOyqO7UubKLiSVlxs-1" target="WYWmt2R7koCnTp0mM5SY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B6roOyqO7UubKLiSVlxs-1" value="&lt;div&gt;예약자명&lt;/div&gt;&lt;div&gt;연락처&lt;/div&gt;&lt;div&gt;비상연락처&lt;/div&gt;&lt;div&gt;인수시간&lt;/div&gt;&lt;div&gt;인수일자&amp;nbsp;&lt;/div&gt;&lt;div&gt;반납시간&lt;/div&gt;&lt;div&gt;반납일자&lt;/div&gt;&lt;div&gt;인수장소&amp;nbsp;&lt;/div&gt;&lt;div&gt;반납장소&lt;/div&gt;&lt;div&gt;소인명수&lt;/div&gt;&lt;div&gt;성인명수&lt;/div&gt;&lt;div&gt;도착비행시간&lt;/div&gt;&lt;div&gt;도착비행편명&lt;/div&gt;&lt;div&gt;고객요청메모&lt;/div&gt;&lt;div&gt;거래처메모&lt;/div&gt;&lt;div&gt;내부메모&lt;/div&gt;&lt;div&gt;보험정보&lt;/div&gt;&lt;div&gt;결제정보&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="PJDTdn_qHvP4Cda7d0ZA-1">
+          <mxGeometry x="310" y="180" width="180" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="WYWmt2R7koCnTp0mM5SY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PJDTdn_qHvP4Cda7d0ZA-1" source="WYWmt2R7koCnTp0mM5SY-0" target="B6roOyqO7UubKLiSVlxs-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WYWmt2R7koCnTp0mM5SY-0" value="부분수정 시작" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PJDTdn_qHvP4Cda7d0ZA-1">
+          <mxGeometry x="340" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WYWmt2R7koCnTp0mM5SY-1" value="부분수정 종료" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PJDTdn_qHvP4Cda7d0ZA-1">
+          <mxGeometry x="340" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WYWmt2R7koCnTp0mM5SY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="PJDTdn_qHvP4Cda7d0ZA-1" source="WYWmt2R7koCnTp0mM5SY-6" target="WYWmt2R7koCnTp0mM5SY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WYWmt2R7koCnTp0mM5SY-6" value="부분수정" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PJDTdn_qHvP4Cda7d0ZA-1">
+          <mxGeometry x="340" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
