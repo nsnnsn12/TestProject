@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T05:56:39.752Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="9Fk9Gwg5Ehp-2nNM2zme" version="14.6.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-05-07T05:56:49.638Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="lCFnqAiDs-rMTdnspXey" version="14.6.10" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
           <mxGeometry x="216.5" y="810" width="137" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hKt6CTxM3T6eTKdjyQ_f-1" value="예약관리&amp;gt; 상담공지" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="AQ8FfqNO2crZOVE3Ao2e-1">
-          <mxGeometry x="270" y="770" width="166" height="60" as="geometry" />
+          <mxGeometry x="300" y="780" width="116" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AQ8FfqNO2crZOVE3Ao2e-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="D0YChMZBv9kTN2ANIZaq-1" source="AQ8FfqNO2crZOVE3Ao2e-2" target="AQ8FfqNO2crZOVE3Ao2e-10">
           <mxGeometry relative="1" as="geometry" />
