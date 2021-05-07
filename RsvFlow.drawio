@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T05:52:38.455Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="wpvm0lTjVfn2g257NncB" version="14.6.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-05-07T05:56:39.752Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="9Fk9Gwg5Ehp-2nNM2zme" version="14.6.10" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,7 +63,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I2_DWPkgyUx9W1wwpnRr" name="접수유스케이스">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="D0YChMZBv9kTN2ANIZaq-0" />
         <mxCell id="D0YChMZBv9kTN2ANIZaq-1" parent="D0YChMZBv9kTN2ANIZaq-0" />
@@ -95,7 +95,7 @@
         <mxCell id="AQ8FfqNO2crZOVE3Ao2e-12" value="지정배차" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="AQ8FfqNO2crZOVE3Ao2e-1">
           <mxGeometry x="110" y="485" width="137" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AQ8FfqNO2crZOVE3Ao2e-13" value="부가서비스 등록" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="AQ8FfqNO2crZOVE3Ao2e-1">
+        <mxCell id="AQ8FfqNO2crZOVE3Ao2e-13" value="부가서비스 팝업" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="AQ8FfqNO2crZOVE3Ao2e-1">
           <mxGeometry x="110" y="545" width="137" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AQ8FfqNO2crZOVE3Ao2e-14" value="응대자 정보 확인" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="AQ8FfqNO2crZOVE3Ao2e-1">
@@ -115,6 +115,12 @@
         </mxCell>
         <mxCell id="_CjHdNTHikuLarads42q-0" value="예약취소" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="AQ8FfqNO2crZOVE3Ao2e-1">
           <mxGeometry x="150" y="750" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hKt6CTxM3T6eTKdjyQ_f-0" value="상담공지 페이지 이동" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="AQ8FfqNO2crZOVE3Ao2e-1">
+          <mxGeometry x="216.5" y="810" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hKt6CTxM3T6eTKdjyQ_f-1" value="예약관리&amp;gt; 상담공지" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="AQ8FfqNO2crZOVE3Ao2e-1">
+          <mxGeometry x="270" y="770" width="166" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AQ8FfqNO2crZOVE3Ao2e-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="D0YChMZBv9kTN2ANIZaq-1" source="AQ8FfqNO2crZOVE3Ao2e-2" target="AQ8FfqNO2crZOVE3Ao2e-10">
           <mxGeometry relative="1" as="geometry" />
