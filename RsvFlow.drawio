@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T05:48:09.344Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="na_HNq8x2hubIIFPqGES" version="14.6.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-07T05:50:13.584Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="witLOIpZfGEMt0BTvgk4" version="14.6.10" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,22 +88,28 @@
           <mxGeometry x="150" y="360" width="137" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AQ8FfqNO2crZOVE3Ao2e-11" value="대차금지" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="AQ8FfqNO2crZOVE3Ao2e-1">
-          <mxGeometry x="110" y="480" width="137" height="40" as="geometry" />
+          <mxGeometry x="110" y="420" width="137" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AQ8FfqNO2crZOVE3Ao2e-12" value="지정배차" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="AQ8FfqNO2crZOVE3Ao2e-1">
-          <mxGeometry x="110" y="545" width="137" height="40" as="geometry" />
+          <mxGeometry x="110" y="485" width="137" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AQ8FfqNO2crZOVE3Ao2e-13" value="부가서비스 등록" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="AQ8FfqNO2crZOVE3Ao2e-1">
-          <mxGeometry x="110" y="605" width="137" height="40" as="geometry" />
+          <mxGeometry x="110" y="545" width="137" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AQ8FfqNO2crZOVE3Ao2e-14" value="응대자 정보 확인" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="AQ8FfqNO2crZOVE3Ao2e-1">
-          <mxGeometry x="110" y="665" width="137" height="40" as="geometry" />
+          <mxGeometry x="53" y="585" width="137" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AQ8FfqNO2crZOVE3Ao2e-31" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;오버부킹 시 대차 등록을 미리 하기 위해서 접수 상태에서도 대차 등록 가능&lt;/span&gt;&#xa;&#xa;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="AQ8FfqNO2crZOVE3Ao2e-1">
           <mxGeometry x="200" y="290" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AQ8FfqNO2crZOVE3Ao2e-32" value="예약관리&amp;gt; 요금 검색 페이지 이동" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="AQ8FfqNO2crZOVE3Ao2e-1">
           <mxGeometry x="220" y="200" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ8FfqNO2crZOVE3Ao2e-33" value="운전자 정보 등록" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="AQ8FfqNO2crZOVE3Ao2e-1">
+          <mxGeometry x="150" y="660" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AQ8FfqNO2crZOVE3Ao2e-34" value="기본은 계약 시 운전자 정보를 확인하지만 VIP 대상으로 사전 등록 가능" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="AQ8FfqNO2crZOVE3Ao2e-1">
+          <mxGeometry x="200" y="590" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AQ8FfqNO2crZOVE3Ao2e-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="D0YChMZBv9kTN2ANIZaq-1" source="AQ8FfqNO2crZOVE3Ao2e-2" target="AQ8FfqNO2crZOVE3Ao2e-10">
           <mxGeometry relative="1" as="geometry" />
