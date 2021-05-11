@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-11T07:41:11.356Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="v-CLIz9gN-7I6MD9yiwG" version="14.6.11" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-05-11T07:58:57.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="YhXD7XpJzGjRp1sW6h1G" version="14.6.11" type="github" pages="3">
   <diagram id="cLx-7rdhU4tBCsFzR0KN" name="페이지-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
       <root>
         <mxCell id="ukJ5rud3LwiSEQInfTvh-0" />
         <mxCell id="ukJ5rud3LwiSEQInfTvh-1" parent="ukJ5rud3LwiSEQInfTvh-0" />
-        <mxCell id="ukJ5rud3LwiSEQInfTvh-2" value="예약&lt;br&gt;계약&lt;br&gt;마감&lt;br&gt;미수" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="ukJ5rud3LwiSEQInfTvh-1" vertex="1">
+        <mxCell id="ukJ5rud3LwiSEQInfTvh-2" value="예약&lt;br&gt;계약&lt;br&gt;미수" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="ukJ5rud3LwiSEQInfTvh-1" vertex="1">
           <mxGeometry x="520" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6OctbQA2YMGz4YNgB6mL-0" value="입금처리 시작" style="rounded=1;whiteSpace=wrap;html=1;" parent="ukJ5rud3LwiSEQInfTvh-1" vertex="1">
@@ -122,10 +122,10 @@
           <mxGeometry x="310" y="240" width="95" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RJ9okTUldl9wXkACGpZc-1" value="환불시작" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jq9l-sCYhfIk_KM1bCxp-1">
-          <mxGeometry x="312.5" y="50" width="90" height="20" as="geometry" />
+          <mxGeometry x="322.5" y="100" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RJ9okTUldl9wXkACGpZc-2" value="환불종료" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jq9l-sCYhfIk_KM1bCxp-1">
-          <mxGeometry x="295" y="410" width="110" height="20" as="geometry" />
+          <mxGeometry x="302.5" y="430" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RJ9okTUldl9wXkACGpZc-3" value="환불 처리" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jq9l-sCYhfIk_KM1bCxp-1">
           <mxGeometry x="310" y="340" width="95" height="20" as="geometry" />
