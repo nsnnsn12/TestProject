@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T04:41:38.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="qJY8-2lLsEe8sCRApaZ2" version="14.6.11" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-05-12T05:57:05.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="cN3wll6yixPMk7qrCY_D" version="14.6.11" type="github" pages="5">
   <diagram id="cLx-7rdhU4tBCsFzR0KN" name="페이지-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -202,7 +202,12 @@
           <mxGeometry x="123" y="810" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="juQ2egQRyEFlWG8SW1RE-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ukJ5rud3LwiSEQInfTvh-1" source="juQ2egQRyEFlWG8SW1RE-42" target="gH9Lb4wCChmSUyL3n2yK-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="196" y="1050" />
+              <mxPoint x="490" y="1050" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="juQ2egQRyEFlWG8SW1RE-42" value="환불장부 등록처리" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ukJ5rud3LwiSEQInfTvh-1">
           <mxGeometry x="130" y="900" width="132" height="20" as="geometry" />
@@ -210,6 +215,10 @@
         <mxCell id="juQ2egQRyEFlWG8SW1RE-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ukJ5rud3LwiSEQInfTvh-1" source="juQ2egQRyEFlWG8SW1RE-44">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="1110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-4" y="1050" />
+              <mxPoint x="490" y="1050" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="juQ2egQRyEFlWG8SW1RE-44" value="환불장부 수정처리" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ukJ5rud3LwiSEQInfTvh-1">
@@ -228,7 +237,12 @@
           <mxGeometry x="677.5" y="880" width="131" height="60" as="geometry" />
         </mxCell>
         <mxCell id="juQ2egQRyEFlWG8SW1RE-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ukJ5rud3LwiSEQInfTvh-1" source="juQ2egQRyEFlWG8SW1RE-59" target="gH9Lb4wCChmSUyL3n2yK-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="866" y="1050" />
+              <mxPoint x="490" y="1050" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="juQ2egQRyEFlWG8SW1RE-59" value="환불장부 등록처리" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ukJ5rud3LwiSEQInfTvh-1">
           <mxGeometry x="800" y="970" width="132" height="20" as="geometry" />
