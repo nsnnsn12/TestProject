@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T04:38:08.232Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="BCg08iNwvSwQHJFqcAPh" version="14.6.11" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-05-12T04:38:14.580Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="J-V16RY5zHi7HC99ejTT" version="14.6.11" type="github" pages="5">
   <diagram id="cLx-7rdhU4tBCsFzR0KN" name="페이지-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -126,6 +126,9 @@
       <root>
         <mxCell id="ukJ5rud3LwiSEQInfTvh-0" />
         <mxCell id="ukJ5rud3LwiSEQInfTvh-1" parent="ukJ5rud3LwiSEQInfTvh-0" />
+        <mxCell id="juQ2egQRyEFlWG8SW1RE-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ukJ5rud3LwiSEQInfTvh-1" source="gH9Lb4wCChmSUyL3n2yK-0" target="juQ2egQRyEFlWG8SW1RE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gH9Lb4wCChmSUyL3n2yK-0" value="수동등록 시작" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ukJ5rud3LwiSEQInfTvh-1">
           <mxGeometry x="430" y="340" width="120" height="20" as="geometry" />
         </mxCell>
