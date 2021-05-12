@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T02:19:57.322Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="4pWM71p70APVVMYpqP6z" version="14.6.11" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-05-12T02:21:25.289Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="L2Gwc5ZWb76tDkR5MRZ2" version="14.6.11" type="github" pages="5">
   <diagram id="cLx-7rdhU4tBCsFzR0KN" name="페이지-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -144,8 +144,8 @@
         <mxCell id="gH9Lb4wCChmSUyL3n2yK-3" value="신규/수정 여부&lt;br&gt;입금연번== 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ukJ5rud3LwiSEQInfTvh-1">
           <mxGeometry x="348" y="550" width="131" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="juQ2egQRyEFlWG8SW1RE-0" value="미수처리 여부" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ukJ5rud3LwiSEQInfTvh-1">
-          <mxGeometry x="40" y="260" width="80" height="80" as="geometry" />
+        <mxCell id="juQ2egQRyEFlWG8SW1RE-0" value="미수처리 여부&lt;br&gt;결제항목 == 미수금" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ukJ5rud3LwiSEQInfTvh-1">
+          <mxGeometry x="40" y="260" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="juQ2egQRyEFlWG8SW1RE-2" value="결제항목&lt;br&gt;결제방법&lt;br&gt;금액&lt;br&gt;계좌번호&lt;br&gt;은행&lt;br&gt;결제일시&lt;br&gt;입금연번&lt;br&gt;환불여부" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="ukJ5rud3LwiSEQInfTvh-1">
           <mxGeometry x="354" y="130" width="120" height="120" as="geometry" />
