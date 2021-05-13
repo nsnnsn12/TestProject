@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-13T01:45:42.133Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="cZgOiucQdxrzlIwMvEGE" version="14.6.12" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-05-13T01:45:49.117Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="-2CquuRlj8vFKPMBKvAu" version="14.6.12" type="github" pages="5">
   <diagram id="cLx-7rdhU4tBCsFzR0KN" name="페이지-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -230,7 +230,7 @@
         <mxCell id="I1ne-qNLgLKUXa0Txov8-1" value="수동삭제 시작" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EQ2TcGOsvXs87uk0noUi-1">
           <mxGeometry x="310" y="50" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="I1ne-qNLgLKUXa0Txov8-2" value="수동등록 끝" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EQ2TcGOsvXs87uk0noUi-1">
+        <mxCell id="I1ne-qNLgLKUXa0Txov8-2" value="수동삭제 끝" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EQ2TcGOsvXs87uk0noUi-1">
           <mxGeometry x="310" y="420" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="I1ne-qNLgLKUXa0Txov8-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="EQ2TcGOsvXs87uk0noUi-1" source="I1ne-qNLgLKUXa0Txov8-5" target="I1ne-qNLgLKUXa0Txov8-30">
